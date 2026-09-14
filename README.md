@@ -1,5 +1,5 @@
 # QMUL AI Catalyst 2026 — planning repository
 
-This repository was created for the QMUL AI Society **Catalyst 2026** event website but does not contain the substantive site implementation.
+This repository was created for planning around the QMUL AI Society **Catalyst 2026** event website, but it does not contain the substantive site implementation.
 
-> **Portfolio status:** planning/placeholder repository. The actual website work is kept in the separate `catalystsite` repository.
+> **Repository status:** planning/placeholder repository. The website implementation is kept in the separate `catalystsite` repository.
